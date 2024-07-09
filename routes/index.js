@@ -1,5 +1,5 @@
 
-//For the timing eveything is static.
+//For the timing everything is static.
 
 var express = require('express');
 var router = express.Router();
